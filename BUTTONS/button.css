@@ -1,0 +1,28 @@
+#rothio:active,#rothio:focus{
+    background-color: red;
+    color: white;
+}
+#MBT:active,#MBT:focus{
+    background-color:green;
+    color: white;
+
+}
+#TBM:active,#TBM:focus{
+    background-color:blue;
+    color: white;
+
+}
+#BTM:active,#BTM:focus{
+    background-color: yellow;
+   color: white;
+
+}
+body{
+    background-image:url(IMAGE\ projet.jpg);
+    background-size: cover;
+}
+#cvContainer{
+    width: 1000px;
+    height: 1000px;
+    text-align: center;
+}
